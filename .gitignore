@@ -1,0 +1,11 @@
+**build
+**api
+**egg-info
+**__pycache__/
+**.vscode/
+**.history
+**build
+**install
+**log
+**devel
+**pycache**
